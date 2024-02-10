@@ -35,10 +35,11 @@ const CyrusArefinia = {
 
 <br>
 
-## Expertise
+## Expertise:
 <p>
   <img alt="Nodejs" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" />
   <img alt="Nest.js", src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=" />
+  <img alt="Express.js", src="https://img.shields.io/static/v1?style=for-the-badge&message=ExpressJS&color=yellow&logo=Express&logoColor=FFFFFF&label=" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
      <img alt="PstgreSQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=" />
@@ -57,9 +58,11 @@ const CyrusArefinia = {
 
 <br>
 
-## Connect with me
+## Connect with me:
 
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:backendcyrus@gmail.com)
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin%20-%236DB33F.svg?&color=blue&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/backendcyrus/)
+[<img align="left" alt="tweet" src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=X&logoColor=white" />](https://twitter.com/BackendCyrus)
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-B02727.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:backendcyrus@gmail.com)
 
 
 <br>
