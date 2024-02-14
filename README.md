@@ -8,17 +8,18 @@ I'm Cyrus Arefinia, a Back-End NodeJS Developer
 
 ```javascript
 const CyrusArefinia = {     
-    pronouns: "He/Him",     
+    pronouns: "he/him",     
     aboutMe: "I'm Node.js Developer"
     language: ["javaScript", "typeScript"],         
     myStack: {             
         backEnd: {             
-          frameworks: ["Express.js", "Nest.js"],                   
-          realTimeTools: ["socket.io", "webSocket"],
-          dataBases: ["MongoDB", "PostgreSQL"],
+          frameworks: ["Express.js", "Nest.js"],
+          webSocket: ["Socket.io"],
+          APIs: ["REST", "GraphQL"],
+          documentation: ["postman", "swagger"],
+          databases: ["MongoDB", "PostgreSQL"],
           caching: ["Redis"],
           architectures: ["MVC", "onion", "clean", "SOLID"],
-          APITools: ["postman", "swagger"],
           security: ["JWT", "OAuth", "TLS/SSL", "MFA", "Encryption", "Firewalls", "API Keys"], // And other...
         },         
         frontEnd: {        
@@ -29,7 +30,7 @@ const CyrusArefinia = {
         devOps: ["Docker🐳"],               
    },    
    currentFocus: "Node.js Web Development",     
-   funFact: "Indie hacking, programming, and a cup of coffee are my ultimate combination.💆‍♂️" 
+   funFact: "Indie hacking, enjoying music, and a cup of coffee are my ultimate combination.💆‍♂️" 
 };
 ```
 
