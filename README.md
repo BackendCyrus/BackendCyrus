@@ -20,12 +20,11 @@ const CyrusArefinia = {
           databases: ["MongoDB", "PostgreSQL"],
           caching: ["Redis"],
           architectures: ["MVC", "onion", "clean", "SOLID"],
-          security: ["JWT", "OAuth", "TLS/SSL", "MFA", "Encryption", "Firewalls", "API Keys"], // And other...
         },         
         frontEnd: {        
           frameworks: ["React.js", "Next.js"],  
           styling: ["Tailwind CSS"],                      
-          note: ["i'm not front-end developer 😁😁😁"],         
+          note: "i'm not front-end developer 😁😁😁",         
         },         
         devOps: ["Docker🐳"],               
    },    
