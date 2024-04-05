@@ -9,7 +9,7 @@ I'm Cyrus Arefinia, a Back-End NodeJS Developer
 ```javascript
 const CyrusArefinia = {     
     pronouns: "he/him",     
-    aboutMe: "I'm Node.js Developer"
+    aboutMe: "I'm Node.js Developer",
     language: ["javaScript", "typeScript"],         
     myStack: {             
         backEnd: {             
